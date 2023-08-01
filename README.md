@@ -1,2 +1,2 @@
 # PowerBI
-Project details
+Project details : https://powerbi.microsoft.com/en-in/desktop/
